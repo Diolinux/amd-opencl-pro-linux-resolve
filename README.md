@@ -1,6 +1,6 @@
 # AMD OpenCL PRO on Linux (DaVinci Resolve/Blender)
 
-This is a Shell Script to install AMD OpenCL PRO over Mesa Driver originally created by "Kytulendy" https://gist.github.com/kytulendu/3351b5d0b4f947e19df36b1ea3c95cbe
+This is a Shell Script to install AMD OpenCL PRO over Mesa Driver originally created by "Kytulendu" https://gist.github.com/kytulendu/3351b5d0b4f947e19df36b1ea3c95cbe
 
 I'm adding here some extra steps to unsure the users will have amdgpu-pro OpenCL working OK over Mesa Driver.
 
