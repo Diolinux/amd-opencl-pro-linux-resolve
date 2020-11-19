@@ -26,6 +26,6 @@ For better compatibility, install this packages and create a symbolic link:
 You may receive some error messages because we ain't installing the full AMDGPU-PRO, but it should work for DaVinci Resolve, Blender and other applications
 that need OpenCL.
 
-Hope it helps, credits to @rra_krr on Twitter.
+Credits to @rra_krr on Twitter.
 
 Hope it helps, thanks.
