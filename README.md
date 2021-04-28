@@ -23,7 +23,7 @@ For better compatibility, install this packages and create a symbolic link:
 
 `sudo ./install-opencl-amd.sh`
 
-if you get `'sudo: ./install-opencl-amd.sh: comando não encontrado'` output, make sure the install script file has all permissions.
+if you get `'sudo: ./install-opencl-amd.sh: command not found'` output, make sure the install script file has all permissions.
 To set all permissions run: `sudo chmod a+x ./install-opencl-amd.sh`
 
 You may receive some error messages because we ain't installing the full AMDGPU-PRO, but it should work for DaVinci Resolve, Blender and other applications
