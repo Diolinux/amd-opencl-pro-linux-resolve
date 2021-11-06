@@ -11,7 +11,7 @@ I'm adding here some extra steps to unsure the users will have amdgpu-pro OpenCL
 
 For better compatibility, install this packages and create a symbolic link:
 
-```sudo apt install opencl-headers ocl-icd-libopencl1 clinfo```
+```sudo apt install opencl-headers ocl-icd-libopencl1 clinfo mesa-opencl-icd```
 
 ```sudo ln -s /usr/lib/x86_64-linux-gnu/libOpenCL.so.1 /usr/lib/libOpenCL.so```
 
